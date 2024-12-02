@@ -22,8 +22,23 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
 * Cloud Platforms: Amazon Web Services (AWS)
 
 
-## 🔗 links
+## 🔗 Social Profiles
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kumar-singanamalla/)
+
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
+
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannakumarsinganamalla@gmail.com
+)
+
+
+## Github Projects | Top 2
+
+### Cloud Architecture Design and Deployment with Terraform
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spkumar17/about_Project2.git)
+
+### AWS-Managed EKS Cluster with Java-Based Application Deployment
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spkumar17/about_project1.git)
+
 
 
