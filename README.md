@@ -28,8 +28,8 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
 
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
 
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannakumarsinganamalla@gmail.com
-)
+[![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannakumarsinganamalla@gmail.com)
+
 
 
 ## Github Projects | Top 2
