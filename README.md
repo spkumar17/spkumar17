@@ -20,3 +20,10 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
 * Code Quality Tools: SonarQube
 * Operating Systems: Windows, Linux
 * Cloud Platforms: Amazon Web Services (AWS)
+
+
+## 🔗 links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kumar-singanamalla/)
+
+
