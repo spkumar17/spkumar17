@@ -21,6 +21,16 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
 * Cloud Platforms: Amazon Web Services (AWS)
 
 
+## Badges
+
+[![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-008CFF?style=flat&logo=github&logoColor=white)](https://www.credly.com/badges/32a05e77-36cc-4826-849f-064db7d3bdb7/public_url)
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-5A6E64?style=flat&logo=amazon&logoColor=white)](https://www.credly.com/badges/1febcf31-c992-4795-85b1-a88fc453d29d/public_url)
+
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.credly.com/badges/f1ab51b1-0430-4afc-a155-e4374124df4f/public_url)
+
+
+
 ## 🔗 Social Profiles
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kumar-singanamalla/)
