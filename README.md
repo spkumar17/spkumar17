@@ -29,6 +29,8 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
 
 [![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.credly.com/badges/f1ab51b1-0430-4afc-a155-e4374124df4f/public_url)
 
+[![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp_Certified_Terraform_Associate-5C4EE5?style=flat&logo=terraform&logoColor=white)](https://www.credly.com/badges/4ba870d8-61eb-4ffe-af28-a2ec0bdf37b6/public_url)
+
 
 
 ## 🔗 Social Profiles
