@@ -37,8 +37,6 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kumar-singanamalla/)
 
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
-
 [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannakumarsinganamalla@gmail.com)
 
 
