@@ -47,6 +47,59 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding GIF">
 </div>
 
+## 🏆 Certifications & Achievements
+
+<div align="center">
+  
+### 🚀 My Cloud Credentials
+  
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/32a05e77-36cc-4826-849f-064db7d3bdb7/public_url">
+        <img src="https://img.shields.io/badge/GitHub_Foundations-008CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=121011" alt="GitHub Foundations">
+      </a>
+      <br>
+      <sub><b>GitHub Foundations</b></sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/1febcf31-c992-4795-85b1-a88fc453d29d/public_url">
+        <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-5A6E64?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=121011" alt="AWS Cloud Practitioner">
+      </a>
+      <br>
+      <sub><b>AWS Cloud Practitioner</b></sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/f1ab51b1-0430-4afc-a155-e4374124df4f/public_url">
+        <img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=121011" alt="AWS Solutions Architect">
+      </a>
+      <br>
+      <sub><b>AWS Solutions Architect</b></sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/4ba870d8-61eb-4ffe-af28-a2ec0bdf37b6/public_url">
+        <img src="https://img.shields.io/badge/Terraform_Associate-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white&labelColor=121011" alt="Terraform Associate">
+      </a>
+      <br>
+      <sub><b>Terraform Associate</b></sub>
+    </td>
+  </tr>
+</table>
+
+![Certification Progress](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9lYzZ6dWx4Y3Q5Z3V0dG9yZzR4Y2VhZ2R5cGZ2cXJ4bGZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7JI1nzX9k2l3W/giphy.gif)
+
+### 📜 Certification Journey Timeline
+
+```mermaid
+gantt
+    title My Certification Journey
+    dateFormat  YYYY-MM
+    section Cloud Certifications
+    GitHub Foundations      :done, cert1, 2023-01, 2023-01
+    AWS Cloud Practitioner  :done, cert2, after cert1, 2023-03
+    AWS Solutions Architect :done, cert3, after cert2, 2023-06
+    Terraform Associate     :done, cert4, after cert3, 2023-09
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kumar-singanamalla/)
