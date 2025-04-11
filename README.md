@@ -51,8 +51,6 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
 
 <div align="center">
   
-### 🚀 My Cloud Credentials
-  
 <table>
   <tr>
     <td align="center" width="150">
@@ -86,19 +84,6 @@ I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience
   </tr>
 </table>
 
-![Certification Progress](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9lYzZ6dWx4Y3Q5Z3V0dG9yZzR4Y2VhZ2R5cGZ2cXJ4bGZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7JI1nzX9k2l3W/giphy.gif)
-
-### 📜 Certification Journey Timeline
-
-```mermaid
-gantt
-    title My Certification Journey
-    dateFormat  YYYY-MM
-    section Cloud Certifications
-    GitHub Foundations      :done, cert1, 2023-01, 2023-01
-    AWS Cloud Practitioner  :done, cert2, after cert1, 2023-03
-    AWS Solutions Architect :done, cert3, after cert2, 2023-06
-    Terraform Associate     :done, cert4, after cert3, 2023-09
 
 ## 📫 Let's Connect
 
