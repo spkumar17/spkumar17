@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="DevOps GIF">
 </div>
 
-# Hello <div align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </div> I'm Prasanna Kumar Singanamalla
 
-## 🚀 About Me
+## 🚀 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prasanna Kumar Singanamalla
+
 I'm a Prasanna Kumar a result-driven DevOps Engineer with 2+ years of experience automating infrastructure management and optimizing mission-critical deployments across production servers. Adept at designing and implementing robust CI/CD pipelines using Jenkins, integrating security tools, and ensuring seamless application delivery. Proficient in crafting highly optimized Docker images for efficient application deployment and managing microservices architecture at scale in Kubernetes clusters. Passionate about enhancing operational efficiency and driving innovation through automation and modern DevOps practices.
 
 ## 🛠️ Tech Stack & Skills
