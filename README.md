@@ -48,6 +48,14 @@ I'm a result-driven DevOps Engineer with 2.6 years of experience automating infr
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding GIF">
 </div>
+ 
+### 3. 12 Microservices, One CI Pipeline – GitLab in Action! using reusable templates.
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spkumar17/Project3.git)
+> 12 Microservices, One CI Pipeline
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding GIF">
+</div>
 
 ## 🏆 Certifications & Achievements
 
