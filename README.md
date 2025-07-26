@@ -83,6 +83,13 @@ I'm a result-driven DevOps Engineer with 2.6 years of experience automating infr
       <br>
       <sub><b>Terraform Associate</b></sub>
     </td>
+  <td align="center" width="150">
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasannaKumarSinganamalla-1172/38749FC6F51C9725?sharingId=485F5EDA390C0BAD">
+      <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=121011" alt="Azure Fundamentals">
+    </a>
+    <br>
+    <sub><b>Azure Fundamentals</b></sub>
+  </td>
   </tr>
 </table>
 
